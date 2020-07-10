@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <samp>
   
-- Currently a Bachelor Student os Information System and Technology in Institut Teknologi Bandung
+- Currently a Bachelor Student of Information System and Technology in Institut Teknologi Bandung
 
 - Best way to reach me is via [Email](garin.kra@gmial.com) or [LinkedIn](https://linkedin.com/in/garinichsan)
 
+- Currently interested on web developement and app developement
 
 Caoo
 </samp>
