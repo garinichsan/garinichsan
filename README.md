@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Garin. 👋
 
 <!--
 **garinichsan/garinichsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<samp>
+  
+- Currently a Bachelor Student os Information System and Technology in Institut Teknologi Bandung
+
+- Best way to reach me is via [Email](garin.kra@gmial.com) or [LinkedIn](https://linkedin.com/in/garinichsan)
+
+
+Caoo
+</samp>
