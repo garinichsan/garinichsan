@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <samp>
   
-- Currently a Bachelor Student of Information System and Technology in Institut Teknologi Bandung
+- Undergraduate Student of Information System and Technology at Bandung Institue of Technology.
 
-- Best way to reach me is via [Email](garin.kra@gmial.com) or [LinkedIn](https://linkedin.com/in/garinichsan)
+- Best way to reach me is via [Email](mailto:garin.kra@gmail.com) or [LinkedIn](https://linkedin.com/in/garinichsan).
 
-- Currently interested on web developement and app developement
+- Interested in robotics and web developement.
 
-Caoo
+Ciaoo
 </samp>
