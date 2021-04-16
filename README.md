@@ -47,7 +47,7 @@ I'm really passionate about technology and management. I'd love to manage a tech
 <ul>
   <li><h4> Internnet Indonesia</h4>
     <a href="http://internnetindonesia.com/" target="_blank" rel="noopener noreferrer">internnetindonesia.com</a>
-    <p>Develop an official website for the Internnet Startup and also join its first 17 core team members to develop the organization. My task includes both the front-end and back-end. I Create the front-end for the home page. Sync the Firestore database to Google Spreadsheets using Firebase function. Automate batch email sending using Google App Script.<br>
+    <p>Develop an official website for the Internnet Startup. My task includes both the front-end and back-end. I Create the front-end for the home page. Sync the Firestore database to Google Spreadsheets using Firebase function. Automate batch email sending using Google App Script.<br>
       Tech: ReactJS, Express, Firebase, AppScript</p>
   </li>
   <li><h4> Aku Masuk ITB 2021</h4>
