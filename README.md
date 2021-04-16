@@ -4,10 +4,10 @@
 I'm really passionate about technology and management. I'd love to manage a technology-based project and learn many interesting things through an actual project. I have my interest in robotics, web development, system administration, and android development. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <h3> 🙋‍♂️ 
-<a href="https://www.linkedin.com/in/garinichsan"><img src="https://img.shields.io/badge/-garinichsan-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
-<a href="https://medium.com/@garinichsan"><img src="https://img.shields.io/badge/-garinichsan-black?style=flat-square&logo=Medium&logoColor=white/"></a>
-<a href="https://gitlab.informatika.org/garinichsan"><img src="https://img.shields.io/badge/-garinichsan-orange?style=flat-square&logo=Gitlab&logoColor=white/"></a>
-<a href="mailto: garin.kra@gmail.com"><img src="https://img.shields.io/badge/-garin.kra@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
+<a href="https://www.linkedin.com/in/garinichsan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-garinichsan-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
+<a href="https://medium.com/@garinichsan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-garinichsan-black?style=flat-square&logo=Medium&logoColor=white/"></a>
+<a href="https://gitlab.informatika.org/garinichsan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-garinichsan-orange?style=flat-square&logo=Gitlab&logoColor=white/"></a>
+<a href="mailto: garin.kra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-garin.kra@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
 <h3>
 
 <h3> 👨‍💻 Technologies <h3>
@@ -46,12 +46,12 @@ I'm really passionate about technology and management. I'd love to manage a tech
 <h3>👨‍🔧 Recent (Mini) Projects</h3>
 <ul>
   <li><h4> Internnet Indonesia</h4>
-    <a href="http://internnetindonesia.com/" target="_blank">internnetindonesia.com</a>
+    <a href="http://internnetindonesia.com/" target="_blank" rel="noopener noreferrer">internnetindonesia.com</a>
     <p>Develop an official website for the Internnet Startup and also join its first 17 core team members to develop the organization. My task includes both the front-end and back-end. I Create the front-end for the home page. Sync the Firestore database to Google Spreadsheets using Firebase function. Automate batch email sending using Google App Script.<br>
       Tech: ReactJS, Express, Firebase, AppScript</p>
   </li>
   <li><h4> Aku Masuk ITB 2021</h4>
-    <a href="https://ecstatic-almeida-e6d923.netlify.app/" target="_blank">akumasukitb.com (deactivated)</a>
+    <a href="https://ecstatic-almeida-e6d923.netlify.app/" target="_blank" rel="noopener noreferrer">akumasukitb.com (deactivated)</a>
     <p> Manage 10 web developers and develop an official website for the annual campus event “Aku Masuk ITB”. Distribute the workload, lead weekly meetings and progress reports, and quality checks.<br>
       Tech: React, Express, MongoDB, CentOS</p>
   </li>
@@ -60,7 +60,7 @@ I'm really passionate about technology and management. I'd love to manage a tech
       Tech: Kotlin, Android Studio</p>
   </li>
   <li><h4>Parwisharsa Website</h4>
-    <a href="https://garinichsan.github.io/Parwisharsa/" target="_blank">garinichsan.github.io/Parwisharsa/</a>
+    <a href="https://garinichsan.github.io/Parwisharsa/" target="_blank" rel="noopener noreferrer">garinichsan.github.io/Parwisharsa/</a>
     <p>A simple website to share about vacation places with Google OAuth to authenticate users before sharing that information. I design and construct both the front-end and back-end for the website with its documentation.<br>
       Tech:  React, Express, MongoDB Atlas, Docker, Heroku, Github Pages, Google Oauth</p>
   </li>
