@@ -45,8 +45,14 @@ I'm really passionate about technology and management. I'd love to manage a tech
 
 <h3>👨‍🔧 Recent (Mini) Projects</h3>
 <ul>
+  <li><h4> Internnet Indonesia</h4>
+    <a href="http://internnetindonesia.com/">internnetindonesia.com</a>
+    <p>Develop an official website for the Internnet Startup and also join its first 17 core team members to develop the organization. My task includes both the front-end and back-end. I Create the front-end for the home page. Sync the Firestore database to Google Spreadsheets using Firebase function. Automate batch email sending using Google App Script.<br>
+      Tech: ReactJS, Express, Firebase, AppScript</p>
+  </li>
   <li><h4> Aku Masuk ITB 2021</h4>
-    <p> Manage and develop an official website for the annual campus event “Aku Masuk ITB”.<br>
+    <a href="https://ecstatic-almeida-e6d923.netlify.app/">akumasukitb.com (deactivated)</a>
+    <p> Manage 10 web developers and develop an official website for the annual campus event “Aku Masuk ITB”. Distribute the workload, lead weekly meetings and progress reports, and quality checks.<br>
       Tech: React, Express, MongoDB, CentOS</p>
   </li>
   <li><h4>GitHub User Application for Android</h4>
@@ -54,6 +60,7 @@ I'm really passionate about technology and management. I'd love to manage a tech
       Tech: Kotlin, Android Studio</p>
   </li>
   <li><h4>Parwisharsa Website</h4>
+    <a href="https://garinichsan.github.io/Parwisharsa/">garinichsan.github.io/Parwisharsa/</a>
     <p>A simple website to share about vacation places with Google OAuth to authenticate users before sharing that information. I design and construct both the front-end and back-end for the website with its documentation.<br>
       Tech:  React, Express, MongoDB Atlas, Docker, Heroku, Github Pages, Google Oauth</p>
   </li>
