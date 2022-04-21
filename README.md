@@ -7,7 +7,7 @@ I'm really passionate about technology and management. I'd love to manage a tech
 <a href="https://www.linkedin.com/in/garinichsan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-garinichsan-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
 <a href="https://medium.com/@garinichsan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-garinichsan-black?style=flat-square&logo=Medium&logoColor=white/"></a>
 <a href="https://gitlab.informatika.org/garinichsan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-garinichsan-orange?style=flat-square&logo=Gitlab&logoColor=white/"></a>
-<a href="mailto: garin.kra@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-garin.kra@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
+<a href="mailto: garinichsan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-garinichsan@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
 <h3>
 
 <h3> 👨‍💻 Technologies <h3>
@@ -18,7 +18,7 @@ I'm really passionate about technology and management. I'd love to manage a tech
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript"> 
 <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php">
-<img src="https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescipt">
+<img src="https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript">
 <img src="https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin">
 <br>
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5">
@@ -43,8 +43,13 @@ I'm really passionate about technology and management. I'd love to manage a tech
 <img src="https://img.shields.io/badge/-ROS-333333?style=flat-square&logo=ros">
 <img src="https://img.shields.io/badge/-Ansible-333333?style=flat-square&logo=ansible">
 
-<h3>👨‍🔧 Recent (Mini) Projects</h3>
+<h3>👨‍🔧 Recent Projects</h3>
 <ul>
+  <li><h4> Oasislab PT Telkom Indonesia Tbk</h4>
+    <a href="http://oasislab.id/" target="_blank" rel="noopener noreferrer">oasislab.id</a>
+    <p>	Lead and develop oasislab.id back-office website primarily contributes as a backend developer.<br>
+      Tech: Handlebars, Express, MySQL, MinIO</p>
+  </li>
   <li><h4> Internnet Indonesia</h4>
     <a href="http://internnetindonesia.com/" target="_blank" rel="noopener noreferrer">internnetindonesia.com</a>
     <p>Develop an official website for the Internnet Startup. My task includes both the front-end and back-end. I Create the front-end for the home page. Sync the Firestore database to Google Spreadsheets using Firebase function. Automate batch email sending using Google App Script.<br>
@@ -65,6 +70,7 @@ I'm really passionate about technology and management. I'd love to manage a tech
       Tech:  React, Express, MongoDB Atlas, Docker, Heroku, Github Pages, Google Oauth</p>
   </li>
   <li><h4>ITB Magz Website</h4>
+    <a href="https://magz.itb.ac.id/" target="_blank" rel="noopener noreferrer">magz.itb.ac.id (deactivated)</a>
     <p>Create additional features and develop the official website of Institut Teknologi Bandung’s magazine.<br>
       Tech: PHP, Wordpress</p>
   </li>
@@ -73,6 +79,14 @@ I'm really passionate about technology and management. I'd love to manage a tech
       Tech: PHP, Laravel, MySQL</p>
   </li>
 </ul>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=garinichsan&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garinichsan&hide=TeX&layout=compact)
+  
+<table>
+    <tr>
+        <td valign="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=garinichsan&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/>
+        </td>
+        <td valign="center">
+            <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=garinichsan&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=radical'>
+        </td>
+    </tr>
+</table>
