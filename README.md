@@ -55,7 +55,7 @@ I'm passionate about cloud infrastructure, automation, and platform reliability.
 
 <h3>👨‍🔧 Experience Highlights</h3>
 <ul>
-  <li><h4>Tamara — Platform Engineer I (DevOps)</h4>
+  <li><h4>Tamara — Product Engineer - DevOps</h4>
     <p>Jun 2026 – Present · Riyadh, Saudi Arabia (Hybrid)<br>
     Building and maintaining platform infrastructure at one of the leading syaria compliant financial technology company in the Middle East.</p>
   </li>
@@ -74,7 +74,7 @@ I'm passionate about cloud infrastructure, automation, and platform reliability.
     Tech: AWS · EKS · Istio · GitHub Actions · SonarQube · Terraform</p>
   </li>
   <li><h4>PT GITS Indonesia — Senior DevOps Engineer</h4>
-    <p>Jun 2023 – Oct 2023 · Bandung, Indonesia (Hybrid)<br>
+    <p>Jun 2024 – Oct 2024 · Bandung, Indonesia (Hybrid)<br>
     Designed and implemented deployment architecture, CI/CD pipelines, and monitoring systems for clients across national banking, retail, and oil & gas sectors.<br>
     Tech: GCP · AWS · Terraform · CI/CD</p>
   </li>
